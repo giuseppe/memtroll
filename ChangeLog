@@ -1,5 +1,7 @@
 2012-02-19  Giuseppe Scrivano  <gscrivano@gnu.org>
 
+	* autogen.sh: New file.
+
 	* README: Describe the program.
 
 	* AUTHORS: New file.
