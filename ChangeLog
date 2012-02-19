@@ -1,5 +1,9 @@
 2012-02-19  Giuseppe Scrivano  <gscrivano@gnu.org>
 
+	* Makefile.am (ACLOCAL_AMFLAGS): Define.
+
+	* configure.ac: Remove AC_PROG_RANLIB.  Call AC_CONFIG_MACRO_DIR.
+
 	* autogen.sh: New file.
 
 	* README: Describe the program.
