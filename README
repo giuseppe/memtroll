@@ -1,0 +1,16 @@
+memtroll -- malloc failures generator(TM)
+
+memtroll uses LD_PRELOAD to load a modified version of `malloc' before
+launch a program.  It runs the program different times forcing malloc
+to fail after a specified number of calls.
+
+The following command for example will iteratively check the first 100
+malloc calls, executing "ls -l" 100 times and forcing malloc to fail
+at different iterations:
+
+./memtroll -f0 -t100 -- ls -l
+
+It is also possible to specify a different log file where write
+memtroll errors:
+
+./memtroll -l log.txt -f0 -t100 -- ls -l

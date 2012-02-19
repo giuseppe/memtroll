@@ -1,0 +1,14 @@
+2012-02-19  Giuseppe Scrivano  <gscrivano@gnu.org>
+
+	* README: Describe the program.
+
+	* AUTHORS: New file.
+	* COPYING: Likewise.
+	* ChangeLog: Likewise.
+	* Makefile.am: Likewise.
+	* NEWS: Likewise.
+	* README: Likewise.
+	* configure.ac: Likewise.
+	* src/Makefile.am: Likewise.
+	* src/libmemtroll.c: Likewise.
+	* src/memtroll.c: Likewise.
