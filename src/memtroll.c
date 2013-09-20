@@ -1,5 +1,6 @@
 /*
-  MyServer
+  MemTroll
+
   Copyright (C) 2012 Giuseppe Scrivano <gscrivano@gnu.org>.
   Copyright (C) 2009-2012 Free Software Foundation, Inc.
 

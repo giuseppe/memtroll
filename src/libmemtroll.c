@@ -1,5 +1,6 @@
 /*
-  MyServer
+  MemTroll
+
   Copyright (C) 2012 Giuseppe Scrivano <gscrivano@gnu.org>.
 
   This program is free software; you can redistribute it and/or modify
